@@ -11,3 +11,4 @@ c=a+b;
 cout<<c;
 getch();
 }
+this is a cpp program

@@ -1,3 +1,5 @@
+//this is a comment
+
 #include<iostream.h>
 #include<conio.h>
 void main()
@@ -9,3 +11,4 @@ c=a+b;
 cout<<c;
 getch();
 }
+dksgzhdfz,dszfhsecmsfj.ienf
